@@ -1,2 +1,2 @@
 def add_numbers(a,b):
-    return a + b +5
+    return sum([a , b ,5])
