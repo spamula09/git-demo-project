@@ -3,4 +3,4 @@
 This is example git read-me file
 
 
-Adding new line as placeholder 
+Familiar with concepts.
