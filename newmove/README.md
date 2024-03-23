@@ -7,4 +7,4 @@ Familiar with concepts.
 
 Docs are mandatory for this project. Understanding it better.
 
-up for one more in feature docs
+up for one more from main in feature docs
